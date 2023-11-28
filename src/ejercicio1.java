@@ -87,7 +87,7 @@ public class ejercicio1 {
         return true;
     }
     public static void ej3(){
-
+        System.out.println("Ejercicio 3");
     }
 }
 
