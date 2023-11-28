@@ -21,7 +21,7 @@ public class ejercicio1 {
                 case 3:
                     ej3();
                     break;
-           
+
                 case 0:
                     System.out.println("Saliendo del programa.");
                     System.exit(0); // Sale del programa
@@ -88,6 +88,7 @@ public class ejercicio1 {
     }
     public static void ej3(){
         System.out.println("Ejercicio 3");
+        System.out.println("BUENOS DIAS :)__?¿?¿?¿");
     }
 }
 
